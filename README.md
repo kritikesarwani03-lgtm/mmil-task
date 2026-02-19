@@ -35,7 +35,7 @@ Figma design used for implementation:
 
 The project is deployed and accessible here:
 
-👉 **[Paste Your Deployment Link Here]**
+👉 **[https://kritikesarwani03-lgtm.github.io/mmil-task/]**
 
 ---
 
@@ -184,3 +184,4 @@ This project fulfills the following evaluation aspects:
 ## ⭐ Final Note
 
 This project demonstrates the ability to translate UI designs into fully functional, responsive web interfaces while maintaining clean coding standards and performance best practices.
+
