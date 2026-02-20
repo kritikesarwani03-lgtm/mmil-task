@@ -27,7 +27,7 @@ The primary goals of this assignment were:
 
 Figma design used for implementation:
 
-👉 **[Paste Your Figma Link Here]**
+👉 **[https://www.figma.com/design/FjEDFsE2EcQO01YkWPxNa6/MMIL-Dev-Task-2k26?node-id=0-1&t;=ZFwIwW6Z5WhIxT9V-1]**
 
 ---
 
@@ -184,4 +184,5 @@ This project fulfills the following evaluation aspects:
 ## ⭐ Final Note
 
 This project demonstrates the ability to translate UI designs into fully functional, responsive web interfaces while maintaining clean coding standards and performance best practices.
+
 
